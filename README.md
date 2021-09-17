@@ -1,2 +1,2 @@
-# EmojiMeaning
+# Emoji
 Created with CodeSandbox
